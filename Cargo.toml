@@ -1,6 +1,7 @@
 [workspace]
 members = [
   "adx",
+  "xtask",
 ]
 
 [profile.release]
