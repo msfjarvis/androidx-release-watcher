@@ -15,7 +15,7 @@ readme = "README.md"
 [dependencies]
 clap = "3.0.0-beta.2"
 color-eyre = { version = "0.5.11", default-features = false }
-indicatif = "0.15.0"
+indicatif = "0.16.0"
 log = "0.4.14"
 pretty_env_logger = "0.4.0"
 roxmltree = { version = "0.14.1", features = ["std"] }
